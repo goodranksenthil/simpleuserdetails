@@ -1,0 +1,22 @@
+[
+  {"username": "user1", "password": "pass1", "role": "admin", "email": "user1@example.com"},
+  {"username": "user2", "password": "pass2", "role": "user", "email": "user2@example.com"},
+  {"username": "user3", "password": "pass3", "role": "user", "email": "user3@example.com"},
+  {"username": "user4", "password": "pass4", "role": "user", "email": "user4@example.com"},
+  {"username": "user5", "password": "pass5", "role": "user", "email": "user5@example.com"},
+  {"username": "user6", "password": "pass6", "role": "user", "email": "user6@example.com"},
+  {"username": "user7", "password": "pass7", "role": "user", "email": "user7@example.com"},
+  {"username": "user8", "password": "pass8", "role": "user", "email": "user8@example.com"},
+  {"username": "user9", "password": "pass9", "role": "user", "email": "user9@example.com"},
+  {"username": "user10", "password": "pass10", "role": "user", "email": "user10@example.com"},
+  {"username": "user11", "password": "pass11", "role": "user", "email": "user11@example.com"},
+  {"username": "user12", "password": "pass12", "role": "user", "email": "user12@example.com"},
+  {"username": "user13", "password": "pass13", "role": "user", "email": "user13@example.com"},
+  {"username": "user14", "password": "pass14", "role": "user", "email": "user14@example.com"},
+  {"username": "user15", "password": "pass15", "role": "user", "email": "user15@example.com"},
+  {"username": "user16", "password": "pass16", "role": "user", "email": "user16@example.com"},
+  {"username": "user17", "password": "pass17", "role": "user", "email": "user17@example.com"},
+  {"username": "user18", "password": "pass18", "role": "user", "email": "user18@example.com"},
+  {"username": "user19", "password": "pass19", "role": "user", "email": "user19@example.com"},
+  {"username": "user20", "password": "pass20", "role": "user", "email": "user20@example.com"}
+]
